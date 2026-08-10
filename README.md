@@ -1,125 +1,161 @@
+<!-- ===================== HERO BANNER ===================== -->
+
 <div align="center">
 
-# Hey Everyone 👋, I'm Lipsa Sahoo
-<!--
-### DevOps & Cloud Engineer · Educator · DevOps Shack
+# 👋 Hey, I'm Lipsa Sahoo
 
-<a href="https://www.youtube.com/@learn-to-ship">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=for-the-badge&logo=youtube&label=DevOps%20Shack&color=FF0000" alt="DevOps Shack YouTube subscribers" />
-</a>
-<a href="https://github.com/jaiswaladi246">
-  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-</a>
-<a href="https://linkedin.com/in/adityajaiswal7">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/devopsshack">
-  <img src="https://img.shields.io/badge/Instagram-DevOpsShack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+### 🎓 Information Technology Graduate · ☁️ Cloud & DevOps · 🤖 AI/ML
 
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Generative%20AI-purple?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Build%20%7C%20Learn%20%7C%20Automate&fontSize=35&fontAlignY=40&animation=fadeIn"/>
 
--->
 </div>
 
+---
 
-<!-- <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/Banner1.png" alt="DevOps Shack Banner" />
-</div> -->
+## 👩‍💻 About Me
+
+I'm an **Information Technology graduate** who enjoys building things at the intersection of **Cloud, DevOps, AI/ML, and software development**.
+
+<!-- I recently completed my **B.Tech. in Information Technology** from SRM Easwari Engineering College with a **GPA of 8.86**. -->
+
+During internships and projects, I've gained hands-on experience with **AWS, Python, Linux, Docker, CI/CD, RAG, AI Agents, FastAPI, MongoDB, Redis, Google ADK and AWS Bedrock**.
+
+I'm especially interested in understanding how applications are **built → deployed → monitored → improved** in real environments.
+
+> 🌱 Early in my career, but always building, learning, debugging and experimenting.
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/> -->
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Currently Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/Name-Lipsa%20Sahoo-1f6feb?style=for-the-badge" alt="Name: Lipsa Sahoo" />
-  <!-- <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 7+ Years" /> -->
-  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: India" />
-</p>
-
-<p>
-  <!-- <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" /> -->
-  <!-- <img src="https://img.shields.io/badge/Brand-DevOps%20Shack-e4405f?style=for-the-badge" alt="Brand: DevOps Shack" /> -->
-</p>
-
-I am a passionate **DevOps and Cloud Engineer from India** with over **1 years of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
-
-<!-- Alongside my corporate IT career, I run **DevOps Shack**, where I create practical tutorials, production-grade projects and technical content to help engineers learn DevOps through real implementation.-->
-
-### Currently Working On
-
-<p>
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/DevSecOps-DC143C?style=flat-square" alt="DevSecOps" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="GitOps" />
-  <img src="https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Observability" />
-  <img src="https://img.shields.io/badge/AI%20for%20DevOps-7B61FF?style=flat-square" alt="AI for DevOps" />
-</p>
-
-- 👨‍💻 Projects: [github.com/Lipsaasahoo](https://github.com/Lipsaasahoo)
-- 💬 Ask me about **DevOps, DevSecOps, AWS, Azure, Kubernetes and CI/CD**
-- 🎥 YouTube: [Learn To Ship](https://www.youtube.com/@learn-to-ship)
-- 📧 Email: [lipsa18sahoo@gmail.com](mailto:lipsa18sahoo@gmail.com)
+<table>
+<tr>
+<td>☁️ AWS & Cloud Infrastructure</td>
+<td>⚙️ DevOps & CI/CD</td>
+</tr>
+<tr>
+<td>🤖 Generative AI & AI Agents</td>
+<td>🔎 RAG & AI Applications</td>
+</tr>
+<tr>
+<td>🐍 Python & Backend Development</td>
+<td>🐧 Linux & Networking</td>
+</tr>
+<tr>
+<td>🐳 Docker & Containers</td>
+<td>📊 Monitoring & Observability</td>
+</tr>
+</table>
 
 ---
 
-## `$ ls technologies/`
-
-### Cloud, DevOps and Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
-</p>
-
-### Development and Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,mysql,nginx,vscode,idea,postman&perline=12" alt="Development and automation technologies" />
-</p>
-
-### DevOps Ecosystem
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
-</p>
-
----
-
-## `$ learn to ship --content`
-
-At **Learn TO Ship**, I create content about:
+## `$ whoami`
 
 ```text
-├── Linux and Shell Scripting
-├── Git, GitHub and GitLab
-├── Jenkins, GitHub Actions and GitLab CI/CD
-├── Docker and Containerization
-├── Kubernetes, EKS and AKS
-├── Terraform and Ansible
-├── AWS and Microsoft Azure
-├── ArgoCD and GitOps
-├── DevSecOps Tools and Practices
-├── Prometheus, Grafana, Loki and OpenTelemetry
-├── Python for DevOps
-└── Agentic AI and AI for DevOps
+Name        : Lipsa Sahoo
+Education   : B.Tech Information Technology
+Status      : Recent Graduate 🎓
+Location    : Chennai, India
+
+Interests   :
+├── ☁️ Cloud & DevOps
+├── 🤖 Artificial Intelligence
+├── 🧠 Machine Learning
+├── ✨ Generative AI
+├── 🐍 Python Development
+├── 🌐 Networking
+└── 🚀 Building practical projects
 ```
 
-<p align="center">
-  <a href="https://www.youtube.com/@learn-to-ship">
-    <img src="https://img.shields.io/badge/Watch%20Learn%20To%20Ship-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Learn To Ship on YouTube" />
-  </a>
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=TECH%20STACK&fontSize=30&fontAlignY=50"/>
+
+## $ ls technologies/
+
+### ☁️ Cloud, DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=12" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🤖 AI / ML & Generative AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=12" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-5C2D91?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Development & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis,mysql&perline=12" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Networking
+
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=linux&perline=12" />
+</p> -->
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSI%20Model-1679A7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPv4-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Subnetting-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARP-1679A7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/DHCP-1679A7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/ICMP-0078D4?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%20%2F%20UDP-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 ---
@@ -149,50 +185,49 @@ At **Learn TO Ship**, I create content about:
 </p>
 
 ---
-<!--
-## 🤝 Open to Collaborations
 
-<p>
-  <img src="https://img.shields.io/badge/Guest%20Sessions-Available-2ea44f?style=for-the-badge" alt="Guest Sessions Available" />
-  <img src="https://img.shields.io/badge/Webinars-Available-2ea44f?style=for-the-badge" alt="Webinars Available" />
-  <img src="https://img.shields.io/badge/YouTube%20Collabs-Open-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Collaborations Open" />
-</p>
+## `$ philosophy`
 
-- 🎤 Guest sessions and technical webinars
-- 🤝 DevOps project collaborations
-- 🎥 YouTube collaborations
-- 💼 DevOps consulting
-- 🧭 Technical mentorship
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       Learn → Build → Break → Debug → Improve    ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
 
---- -->
+I believe the best way to learn technology is to **build something, run into problems, debug them, and understand why they happened**.
 
-## `$ connect --with-me`
+I'm currently focused on turning what I've learned through academics, internships and projects into **real-world engineering skills**.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!%20👋&fontSize=28&fontAlignY=65"/>
+
+## 🤝 `$ connect --with-me`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lipsa-sahoo-97885927a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lipsa%20Sahoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@learn-to-ship">
-    <img src="https://img.shields.io/badge/YouTube-Learn%20To%20Ship-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <!-- <a href="https://instagram.com/devopsshack">
-    <img src="https://img.shields.io/badge/Instagram-DevOps%20Shack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a> -->
-  <a href="mailto:lipsa18sahoo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lipsa18sahoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<a href="mailto:lipsasahoo1805@gmail.com">
+<img src="https://img.shields.io/badge/Email-lipsasahoo1805%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/lipsa-sahoo-97885927a">
+<img src="https://img.shields.io/badge/LinkedIn-Lipsa%20Sahoo-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
-<!--
-### Helping people crack DevOps with practical, real-world knowledge.
+
+### 🌱 Building today. Learning every day. Improving continuously.
 
 ```text
-Build • Automate • Secure • Scale
+Code • Automate • Learn • Build
 ```
 
-**⭐ Follow [jaiswaladi246](https://github.com/jaiswaladi246) for practical DevOps projects**
--->
+⭐ **Feel free to explore my repositories and follow my journey.**
+
 </div>
