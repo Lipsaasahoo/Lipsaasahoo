@@ -231,3 +231,11 @@ Code • Automate • Learn • Build
 ⭐ **Feel free to explore my repositories and follow my journey.**
 
 </div>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
