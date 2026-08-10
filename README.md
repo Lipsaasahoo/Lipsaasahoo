@@ -231,3 +231,26 @@ Code • Automate • Learn • Build
 ⭐ **Feel free to explore my repositories and follow my journey.**
 
 </div>
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+---
+
+## 🐍 `$ contribution-snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lipsaasahoo/Lipsaasahoo/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lipsaasahoo/Lipsaasahoo/gh-pages/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Lipsaasahoo/Lipsaasahoo/gh-pages/github-snake.svg" />
+</picture>
+
+</div>
