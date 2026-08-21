@@ -234,15 +234,6 @@ Code • Automate • Learn • Build
 
 ---
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
----
-
 ## 🐍 `$ contribution-snake`
 
 <div align="center">
